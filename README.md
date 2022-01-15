@@ -1,2 +1,2 @@
-# Common personal configurations
+Common personal configurations
 
